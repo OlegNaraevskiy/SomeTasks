@@ -34,7 +34,7 @@ namespace SomeTasks
 				}
 				else if (numArray[i] == '0')
 				{
-					zeroCounter++
+					zeroCounter++;
 				}
 			}
 
