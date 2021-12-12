@@ -1,3 +1,5 @@
 /.vs/SomeTasks/v16
 /SomeTasks/bin/*
 /SomeTasks/obj/*
+/SomeTasks.Tests/bin/*
+/SomeTasks.Tests/obj/*
